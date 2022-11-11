@@ -18,6 +18,25 @@ public class RestaurantController: ControllerBase
         _restaurantService = restaurantService;
     }
 
+    [HttpPut("{id}")]
+    public ActionResult Update([FromRoute] int id, [FromBody] UpdateRestaurantDTO dto)
+    {
+        if (!ModelState.IsValid)
+        {
+            return BadRequest(ModelState);
+        }
+
+        var isUpdate = _restaurantService.Update(id, dto);
+
+        if (!isUpdate)
+        {
+            return NotFound();
+        }
+
+        return Ok();
+    }
+
+    
     [HttpDelete("{id}")]
     public ActionResult Delete([FromRoute] int id)
     {
