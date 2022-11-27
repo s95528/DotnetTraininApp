@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SufZSnLiH++FsdnHb3CnS9unjmKikVismOTLIwkbV4CxK3RElrswOc7rYzL1jX4t4Z8gAMptrYd2t+OAWNS9AA==",
+  "dgSpecHash": "II78YKtN9PuelIi8p3sK8v9EFk4mkivubqPjWCVvK9dHibc27oHFS2LpC2ojTg17MORl5uYNwSZCqUkREdv0Mg==",
   "success": true,
   "projectFilePath": "/home/damian/RiderProjects/DotnetApp/DotnetApp.csproj",
   "expectedPackageFiles": [
@@ -38,6 +38,9 @@
     "/home/damian/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
     "/home/damian/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "/home/damian/.nuget/packages/mysqlconnector/2.1.2/mysqlconnector.2.1.2.nupkg.sha512",
+    "/home/damian/.nuget/packages/nlog/5.0.5/nlog.5.0.5.nupkg.sha512",
+    "/home/damian/.nuget/packages/nlog.extensions.logging/5.1.0/nlog.extensions.logging.5.1.0.nupkg.sha512",
+    "/home/damian/.nuget/packages/nlog.web.aspnetcore/5.1.5/nlog.web.aspnetcore.5.1.5.nupkg.sha512",
     "/home/damian/.nuget/packages/npgsql/6.0.7/npgsql.6.0.7.nupkg.sha512",
     "/home/damian/.nuget/packages/npgsql.entityframeworkcore.postgresql/6.0.7/npgsql.entityframeworkcore.postgresql.6.0.7.nupkg.sha512",
     "/home/damian/.nuget/packages/pomelo.entityframeworkcore.mysql/6.0.2/pomelo.entityframeworkcore.mysql.6.0.2.nupkg.sha512",

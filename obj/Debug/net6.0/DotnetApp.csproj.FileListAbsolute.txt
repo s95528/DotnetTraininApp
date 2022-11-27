@@ -65,3 +65,7 @@
 /home/damian/RiderProjects/DotnetApp/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /home/damian/RiderProjects/DotnetApp/bin/Debug/net6.0/AutoMapper.dll
 /home/damian/RiderProjects/DotnetApp/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/damian/RiderProjects/DotnetApp/bin/Debug/net6.0/nlog.config
+/home/damian/RiderProjects/DotnetApp/bin/Debug/net6.0/NLog.dll
+/home/damian/RiderProjects/DotnetApp/bin/Debug/net6.0/NLog.Extensions.Logging.dll
+/home/damian/RiderProjects/DotnetApp/bin/Debug/net6.0/NLog.Web.AspNetCore.dll

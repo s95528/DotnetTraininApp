@@ -1,0 +1,8 @@
+2022-11-19 13:58:55.5140|0|DEBUG|Program|init main |url: |action: |Program.<Main>$
+2022-11-19 13:58:58.2185|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7094 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-11-19 13:58:58.2346|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5103 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync
+2022-11-19 13:58:58.2354|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-11-19 13:58:58.2354|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-11-19 13:58:58.2354|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /home/damian/RiderProjects/DotnetApp/ |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted
+2022-11-19 13:59:38.3074|0|WARN|DotnetApp.Services.RestaurantService|Restaurant CREATE action invoked |url: https://localhost/api/restaurant|action: CreateRestaurant|DotnetApp.Services.RestaurantService.Create
+2022-11-19 14:00:27.7029|0|INFO|Microsoft.Hosting.Lifetime|Application is shutting down... |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStopping
